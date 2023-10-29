@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#FFFFFF" /> <!-- Warna latar belakang -->
+            <stroke android:color="#000000" android:width="1px" /> <!-- Border hitam 1px -->
+        </shape>
+    </item>
+</layer-list>
